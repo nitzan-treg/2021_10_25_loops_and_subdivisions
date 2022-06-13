@@ -1,4 +1,4 @@
-# Differential Line Growth
+# Loops And Subdivisions
 This project is based on Entagma's tutorial: https://entagma.com/loops-subdivisions/
 the tutorial teachs how to recursively subdivide and deform geometry.
 
